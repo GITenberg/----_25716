@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31528
     wikipedia: http://en.wikipedia.org/wiki/John_Sung
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25716#----
 gutenberg_issued: '2008-06-07'
 gutenberg_type: Text
 identifiers:
